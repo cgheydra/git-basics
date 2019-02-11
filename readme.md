@@ -1,7 +1,7 @@
 # Readme voor Git-basics
 
 <<<<<<< HEAD
-Dit is de readme file foor de repo git-basics. Ik gebruik deze om te leren hoe git werkt
+Dit is de readme file foor de repo git-basics. Ik gebruik deze om te leren hoe git werkt. En het werkt goed.
 
 ## dit is een kop
 =======
